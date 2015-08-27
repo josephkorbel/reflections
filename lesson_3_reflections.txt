@@ -24,3 +24,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 I would collaborate by having a master branch and when everybody pushed their code they would create
 pull requests that would have to be reviewed by at least one other user. If that user thought the changes were okay they would approve and merge them, otherwise they would make notes of what mistakes or conflicts there might be for the other person to fix.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are adding experimental features that might completely break the code base and you want to know exacly where those features are, or when you want to experiment with something you might not end up adding, or don't have time to implement. The benefit of this is that that branch never has to be added to the master, or can easily be added. It is also easily distinguishable so you can do work on the master and come back to the branch whenever you want to work on it.
