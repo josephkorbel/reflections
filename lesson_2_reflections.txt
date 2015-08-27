@@ -12,3 +12,7 @@ You can use the staging area and then immediately after you have everything stag
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would be good anytime you aren't sure you need or want an added feature but you would like to experiment with it. This would help ensure you don't have points in your history where you jumped back and forth between the feature then decided to delete, and allow you to show these various versions to other people if necessary.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams let you see a structured representation of all the changes you have made and understand where things have branched/merged.
