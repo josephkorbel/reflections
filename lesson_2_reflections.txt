@@ -19,3 +19,7 @@ Diagrams let you see a structured representation of all the changes you have mad
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The changes from both branches are merged in together. We represent them the way that we do so that all commits from each branch can still be accessed.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging can be dangerous if you do not know changes other people have made and they merge into your code, however manually merging can be tedious. You have to keep track yourself of what everybody is doing or changes you have made throughout every stage in your branch since it left the master in order to merge.
